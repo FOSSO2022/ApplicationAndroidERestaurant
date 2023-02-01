@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/activity_basket.xml" value="0.1" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/activity_details.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/activity_home.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/activity_meals.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/fragment_register.xml" value="0.1" />
+        <entry key="..\:/Users/Cercl/Documents/GitHub Projects/Android-Restaurant_AndroidStudio-Kotlin/AndroidERestaurant/app/src/main/res/layout/menu_basket.xml" value="0.1" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable-v24/ic_cart.xml" value="0.2296875" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_basket.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_details.xml" value="0.67" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_home.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_meals.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/cell_basket.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/cell_meal.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_photo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/menu_basket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Renard/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/menu/menu.xml" value="0.21354166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
